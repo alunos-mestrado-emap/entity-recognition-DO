@@ -13,3 +13,5 @@ Entity recognition for the Diário Oficial da Prefeitura de Mesquita.
 - recognizing [names](https://code.google.com/archive/p/splitta/source/default/source)
 
 - NER in general [1](http://nlpforhackers.io/named-entity-extraction/) [2](http://www.nltk.org/_modules/nltk/tag/stanford.html) [3](http://nltk.org/api/nltk.tag.html#module-nltk.tag.stanford)
+
+- pdfminer docs [pdf](https://media.readthedocs.org/pdf/pdfminer-docs/latest/pdfminer-docs.pdf)
