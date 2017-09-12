@@ -10,6 +10,9 @@ should solve your problem.
 
 """
 
+#
+## parsing CoNLL-U files
+
 import csv
 import os
 
@@ -75,4 +78,3 @@ def dir_conllu_transform(dirpath, transf_function):
             transf_function(file.path)
         else:
             continue
-                    
