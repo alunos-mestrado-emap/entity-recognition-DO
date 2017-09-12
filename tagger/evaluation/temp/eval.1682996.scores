@@ -1,0 +1,3 @@
+processed 12111 tokens with 706 phrases; found: 682 phrases; correct: 640.
+accuracy:  98.97%; precision:  93.84%; recall:  90.65%; FB1:  92.22
+            PROPN: precision:  93.84%; recall:  90.65%; FB1:  92.22  682
